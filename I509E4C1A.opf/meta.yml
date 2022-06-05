@@ -1,0 +1,25 @@
+id: I509E4C1A
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:03:45.490985'
+last_modified: '2022-06-05T20:03:45.490997'
+parser: null
+source_metadata:
+  title: Songtsen Gampo Series
+  language: en
+  description: 'Texts by and about the seventh-century Tibetan emperor Songtsen Gampo
+    (srong btsan sgam po, d. 650) during whose reign Buddhism first took root in Tibet:'
+  volume:
+    f868D:
+      title: 'Self-Arising Wisdom: Songtsen Gampo Guru Sādhana'
+      base_file: f868D.txt
+      order: 1
+      parent: Guru Yoga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
